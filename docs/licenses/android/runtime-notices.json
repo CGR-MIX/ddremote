@@ -1,0 +1,70 @@
+[
+  {
+    "embeddedNotices": [],
+    "coordinate": "org.jetbrains.kotlin:kotlin-stdlib:2.2.21"
+  },
+  {
+    "embeddedNotices": [],
+    "coordinate": "org.jetbrains:annotations:13.0"
+  },
+  {
+    "embeddedNotices": [
+      "META-INF/LICENSE.md"
+    ],
+    "coordinate": "org.bouncycastle:bcprov-jdk18on:1.85.2"
+  },
+  {
+    "embeddedNotices": [
+      "META-INF/LICENSE.md"
+    ],
+    "coordinate": "org.bouncycastle:bcpkix-jdk18on:1.85"
+  },
+  {
+    "embeddedNotices": [
+      "META-INF/LICENSE.md"
+    ],
+    "coordinate": "org.bouncycastle:bcutil-jdk18on:1.85"
+  },
+  {
+    "embeddedNotices": [],
+    "coordinate": "org.jcodec:jcodec:0.2.5"
+  },
+  {
+    "embeddedNotices": [],
+    "coordinate": "com.squareup.okhttp3:okhttp-android:5.5.0"
+  },
+  {
+    "embeddedNotices": [],
+    "coordinate": "com.squareup.okio:okio-jvm:3.18.1"
+  },
+  {
+    "embeddedNotices": [
+      "META-INF/androidx/annotation/annotation/LICENSE.txt"
+    ],
+    "coordinate": "androidx.annotation:annotation-jvm:1.10.0"
+  },
+  {
+    "embeddedNotices": [
+      "META-INF/androidx/startup/startup-runtime/LICENSE.txt"
+    ],
+    "coordinate": "androidx.startup:startup-runtime:1.2.0"
+  },
+  {
+    "embeddedNotices": [],
+    "coordinate": "androidx.tracing:tracing:1.0.0"
+  },
+  {
+    "embeddedNotices": [],
+    "coordinate": "org.jmdns:jmdns:3.6.3"
+  },
+  {
+    "embeddedNotices": [
+      "META-INF/LICENSE.txt"
+    ],
+    "coordinate": "org.slf4j:slf4j-api:2.0.7"
+  },
+  {
+    "embeddedNotices": [],
+    "coordinate": "com.github.cgutman:ShieldControllerExtensions:1.0.1"
+  }
+]

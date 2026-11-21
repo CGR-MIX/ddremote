@@ -1,0 +1,18 @@
+[
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\opus\\arm64-v8a\\libopus.a",
+    "sha256": "d6c39b9135017ab76a42e364569f18622e6e3df691ac2d1d9d36ee4a02eb2e13"
+  },
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\opus\\armeabi-v7a\\libopus.a",
+    "sha256": "3925fecb62e4a75095d658bcc1c4e309712a330699825b7790880cf21497719e"
+  },
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\opus\\x86\\libopus.a",
+    "sha256": "ed39b86eee0868d911516c4034e8395af31aaa7bfb8ac7e4415846b59ee28d1f"
+  },
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\opus\\x86_64\\libopus.a",
+    "sha256": "7d8214860fdab5a8bf0d15125a2ae7baf80169dc4e6ee1ffa2633bb2e7de7a8b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "bcpkix-jdk18on-1.85.jar",
+    "sha256": "c9f82b2d4e99c4bbdfccf684e52cc06ea06a0b567bfd0d08f9c5a3f417055996",
+    "size": 1315409
+  },
+  {
+    "name": "bcprov-jdk18on-1.85.2.jar",
+    "sha256": "986b0fb92ec10e0c66b43e036ce0077e6150cfaecd1db9fb92b56672e157afe5",
+    "size": 10280518
+  },
+  {
+    "name": "bcutil-jdk18on-1.85.jar",
+    "sha256": "590f55ed5d68529239898a4a5c4f730b6e37f45d1cfa3fbe51f8485abe32c42d",
+    "size": 718812
+  },
+  {
+    "name": "okhttp-3.14.9.jar",
+    "sha256": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
+    "size": 430488
+  },
+  {
+    "name": "okio-1.17.2.jar",
+    "sha256": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
+    "size": 91980
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\openssl\\arm64-v8a\\libcrypto.a",
+    "sha256": "d593ba8f576db9ff20d058bee7f0f154b4e000b447548533bc8f16eb95290b54"
+  },
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\openssl\\armeabi-v7a\\libcrypto.a",
+    "sha256": "76abf9210207bb74d19c758e898090f5b4c45fdf1c9a9e8613431c7d9455d904"
+  },
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\openssl\\x86\\libcrypto.a",
+    "sha256": "88699686084a5cf6068be378b86b7e90f9ea646f6aca09b17303d8cdbe933aff"
+  },
+  {
+    "file": "apps\\android\\app\\src\\main\\jni\\moonlight-core\\openssl\\x86_64\\libcrypto.a",
+    "sha256": "8502529fe9992e4f67962a5c5d98139ec37cd9ccacac341622500bf399ad52ca"
+  }
+]

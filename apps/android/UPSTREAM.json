@@ -1,0 +1,24 @@
+{
+  "name": "Moonlight Android",
+  "url": "https://github.com/moonlight-stream/moonlight-android",
+  "commit": "b48494cb96bff23d8886c4775cc4f39a1075495d",
+  "license": "GPL v3 (see LICENSE.txt)",
+  "applicationId": "io.ddremote.android",
+  "versionName": "0.2.0-preview",
+  "versionCode": 2,
+  "submodules": {
+    "moonlight-common-c": "874ac9548f1bd6f095ef2b435c42cdde460e7821",
+    "enet": "aca87840b57f045a1f7f9299e4b1b9b8e2a5e2f1",
+    "nanors": "b1e3c22ca0cdc0bb83e3cd6ed1a2fc77869ed99a"
+  },
+  "ddremoteChanges": [
+    "Original launcher, brand icon and Chinese connection guide",
+    "Native file/clipboard client with certificate-pinned HTTPS and Bearer capability authentication",
+    "Storage Access Framework upload/download and explicit clipboard actions",
+    "Embedded Tailscale tsnet 1.104.7 through Go c-shared/JNI for four Android ABIs",
+    "Same-owner account discovery, certificate-bound automatic pairing and direct desktop launch",
+    "Android interface and trust-root adapters; ephemeral memory-only account lifecycle",
+    "DD Remote pairing instructions and About/license view",
+    "Reproducible local build and protocol/interoperability tests"
+  ]
+}

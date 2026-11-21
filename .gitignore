@@ -1,0 +1,46 @@
+.tools/
+dist/
+**/build/
+**/.gradle/
+**/.cxx/
+**/local.properties
+**/node_modules/
+apps/windows/payload/*.zip
+research/uu/extracted/
+research/upstream/sources/
+*.log
+*.jks
+*.keystore
+.testdata/
+
+# Local research, browser captures, and runtime validation evidence.
+/research/
+/output/
+/.playwright-cli/
+**/build-evidence/
+/experiments/uu-android/evidence/
+
+# Generated files and local development configuration.
+**/__pycache__/
+*.py[cod]
+*.class
+*.apk
+*.aab
+*.ap_
+*.dex
+*.exe
+*.tar.gz
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Credentials and private signing material.
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.key
+**/secrets.json
+**/keystore-password.txt

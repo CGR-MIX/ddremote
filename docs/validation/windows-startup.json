@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0-preview",
+  "scope": "Historical 0.1.0 local isolated startup only; no account/network test",
+  "localHost": {
+    "running": true,
+    "ready": true
+  },
+  "fileServiceRunning": true,
+  "networkRunning": false,
+  "sanitized": "Host name, IP addresses, local directory, certificate fingerprint and log lines omitted"
+}
